@@ -1,0 +1,1 @@
+<?phpdefine('BASE_URL', "http://localhost/sinaumvc/public");?>
